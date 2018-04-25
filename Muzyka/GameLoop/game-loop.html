@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<title>Response time game</title>
+	<style>
+		html
+		{
+			overflow: hidden;
+			padding: 0;
+			margin: 0;
+			
+		}
+		canvas
+		{
+			 	
+			position: absolute;
+			top:0;
+			left: 0;
+			background: #67FFE8; 	 
+		}
+		.score{
+			position: absolute;
+			right: 10px;
+			top:100px;
+			width:300px;
+			background: lightblue;
+
+		}
+		li
+		{
+			list-style: none;
+		}
+
+	</style>
+
+</head>
+<body>
+	<div class="score">
+<ul>
+	<li id="box1">text 1</li>
+	<li id="box2">text 2</li>
+	<li id="box3">text 3</li>
+</ul>
+	</div>
+	<script src="GAME.js"></script>
+	<script src="hero.js"></script>
+	<script src="Shot.js"></script>
+	<script src="Enemy.js"></script> 
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+
+	<title>Response time game</title>
+	<style>
+		html
+		{
+			overflow: hidden;
+			padding: 0;
+			margin: 0;
+			
+		}
+		canvas
+		{
+			 	
+			position: absolute;
+			top:0;
+			left: 0;
+			background: #67FFE8; 	 
+		}
+		.score{
+			position: absolute;
+			right: 10px;
+			top:100px;
+			width:300px;
+			background: lightblue;
+
+		}
+		li
+		{
+			list-style: none;
+		}
+
+	</style>
+
+</head>
+<body>
+	<div class="score"><p></p></div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="jquery.json.js"></script>
+	<script src="GAME.js"></script>
+	<script src="hero.js"></script>
+	<script src="Shot.js"></script>
+	<script src="Enemy.js"></script> 
+</body>
+</html>

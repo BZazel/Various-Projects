@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Wy",
+				"wypełniona"
+			],
+			[
+				"connect_erro",
+				"maxdb_connect_errno"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"Pass",
+				"PASS"
+			],
+			[
+				"listt",
+				"list-style"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"draw",
+				"drawAll"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"go",
+				"go_right"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"nex",
+				"next_row"
+			],
+			[
+				"next",
+				"next_column"
+			],
+			[
+				"actu",
+				"actual_fW"
+			],
+			[
+				"tra",
+				"trans_y"
+			],
+			[
+				"Shou",
+				"shouldMoveX"
+			],
+			[
+				"trans",
+				"trans_x"
+			],
+			[
+				"trnas",
+				"trans_x"
+			],
+			[
+				"se",
+				"setPointY"
+			],
+			[
+				"set",
+				"setPointX"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"sho",
+				"shouldMoveY"
+			],
+			[
+				"Sould",
+				"shouldMoveX"
+			],
+			[
+				"tr",
+				"trans_y"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"wate",
+				"waterfallTop"
+			],
+			[
+				"tans",
+				"trans_x"
+			],
+			[
+				"ste",
+				"setPointX"
+			],
+			[
+				"setP",
+				"setPointY"
+			],
+			[
+				"right",
+				"right_go"
+			],
+			[
+				"XXXXXX",
+				"XXXXX-------XXXX"
+			],
+			[
+				"o",
+				"objArray"
+			],
+			[
+				"W",
+				"W"
+			],
+			[
+				"tmp",
+				"tmp_crate"
+			],
+			[
+				"tm",
+				"tmp_column"
+			],
+			[
+				"tmp_",
+				"tmp_row"
+			],
+			[
+				"tar",
+				"target_y"
+			],
+			[
+				"down_bum",
+				"down_bum_end"
+			],
+			[
+				"target",
+				"target_y"
+			],
+			[
+				"targe",
+				"target_x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#FirstForm\n{\n\tmargin:auto;\n\tpadding: 5px;\n\twidth: 400px;\n\n}\t\n#FirstForm div\n{\tfloat:left;\n\tbox-sizing:border-box;\n\tbackground: #6CD9FF;\n\tmargin: 10px;\t\n}",
+			"file": "/C/xampp/htdocs/From_style.css",
+			"file_size": 164,
+			"file_write_time": 131603129767998902,
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<?php \n\t\nrequire_once \"connect.php\";\t\n\n $connection = @new mysqli($host, $db_user, $db_password, $db_name);\n\n\t\t\n if ($connection -> connect_errno!=0) \n {\n \techo \"Error: \".$connection -> connect_errno;\n }\n else\n { //Jeśli wszystko ok\n \t\t// Pobierz pseudonim\n \t$list = array();\n \tfor ($i=0; $i < 100; $i++) { \n \t\t$list[$i]=$i;\n \t}\n \t\n \t$checked_count = count($_POST['checkList']);\n\n \t\t$nick = $_POST['nick'];\n \t\techo $nick;\n \t\techo \"Wybranych \".$checked_count;\n \t\t$age = $_POST['age'];\n \t\techo \"Wiek: \". $age;\n\t\t$firstItem = $_POST['checkList'][0];\n\t\t$sql = \"INSERT INTO gracze SET Nick='$nick', age='$age', Pyt1='$firstItem'\";\n\n\n\t \t\tif ($connection->query($sql)) \n\t \t\t{\n\t\t \t\t$num = 0;\n\t\t \t\t\t// -------------------------- Populacja wartości czasu reakcji\t\n\t\t\t\t\t// foreach ($list as $item) \n\t\t\t\t\t// {\t\n\t\t\t\t\t// \t$name = \"res\".$num;\n\t\t\t\t\t// \t$ListSql = \"UPDATE gracze SET $name='$item' WHERE Nick='$nick'\";\t\n\n\t\t\t\t\t// \t$connection->query($ListSql);\n\n\t\t\t\t\t// \t$num++;\n\t\t\t\t\t// \techo \"<script>console.log('$item')</script>\";\n\n\t\t\t\t\t// }\n\t\t \t\t\t// -------------------------------------------------------\n\n\t\t\t\t $_SESSION['Ankieta_wypelniona'] = true;\n\t\t\t\t \techo \"Czy zmienna ustawiona?: \".isset($_SESSION['Ankieta_wypelniona']);\n\t \t\t\t//echo \"Item send\";\n\n\t \t\t\t//header('Location: game-loop.html');\n\t \t\t}\n\t }\n ?>",
+			"file": "/C/xampp/htdocs/GameLoop/Ankieta_check.php",
+			"file_size": 1196,
+			"file_write_time": 131603418581498119,
+			"settings":
+			{
+				"buffer_size": 1299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/index.php",
+			"settings":
+			{
+				"buffer_size": 2445,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/connect.php",
+		"/C/xampp/htdocs/Ankieta_check.php",
+		"/C/xampp/htdocs/makeTables.php",
+		"/C/Users/LenDev/Documents/Projekty HTML/kurs_php3/koniec pracy - stan po odc 3/osadnicy/Ankieta_check.php",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/game-loop.html",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/GAME.js",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/Enemy.js",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/Shot.js",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/From_style.css",
+		"/C/xampp/htdocs/From_style.css",
+		"/C/Users/LenDev/Documents/Projekty HTML/Response Time - alpha/index.php",
+		"/C/Users/LenDev/Documents/Response Time - alpha/hero.js",
+		"/C/Users/LenDev/Documents/Response Time - alpha/game-loop.html",
+		"/C/Users/LenDev/Desktop/gotowe/js/Rock.js",
+		"/C/Users/LenDev/Desktop/gotowe/js/Bullet.js",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/gotowe/js/game.js",
+		"/C/Users/LenDev/Documents/6.16_Bomby/gotowe/js/Character.js",
+		"/C/Users/LenDev/Documents/6.16_Bomby/gotowe/js/game.js",
+		"/C/Users/LenDev/Documents/6.16_Bomby/gotowe/js/Bomb.js",
+		"/C/Users/LenDev/Dysk Google/Andrzej - the Game Alpha 1.2/js/game.js",
+		"/C/Users/LenDev/Dysk Google/Andrzej - the Game Alpha 1.2/js/Character.js",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/gotowe/bomberman.html",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/gotowe/js/Character.js",
+		"/C/Users/LenDev/Documents/Projekty HTML/test.html",
+		"/C/Users/LenDev/Documents/6.18_Zasieg_wybuchow/gotowe/js/Character.js",
+		"/C/Users/LenDev/Desktop/Zagubieni w słońcu (2015) Lektor PL 1080p - wideo w cda.pl_files/client.js",
+		"/C/Users/LenDev/Documents/Andrzej - the game/js/Character.js",
+		"/C/Users/LenDev/Dysk Google/Andrzej - the Game/js/AnimatedObj",
+		"/C/Users/LenDev/Documents/Andrzej - the game/js/AnimatedObj.js",
+		"/C/Users/LenDev/Documents/Andrzej - the game/js/Board.js",
+		"/C/Users/LenDev/Documents/Andrzej - the game/js/game.js",
+		"/C/Users/LenDev/Documents/Andrzej - the game/newGame.html",
+		"/C/Users/LenDev/Documents/gotowe/js/Board.js",
+		"/C/Users/LenDev/Documents/gotowe/js/Character.js",
+		"/C/Users/LenDev/Documents/6.18_Zasieg_wybuchow/gotowe/js/game.js",
+		"/C/Users/LenDev/Documents/gotowe/js/game.js",
+		"/C/Users/LenDev/Documents/gotowe/newGame.html",
+		"/C/Users/LenDev/Documents/gotowe/js/AnimatedObj.js",
+		"/C/Users/LenDev/Documents/6.16_Bomby/gotowe/js/Board.js",
+		"/C/Users/LenDev/Documents/gotowe/js/Waterfall.js",
+		"/C/Users/LenDev/Documents/gotowe/32x32_map_tile.png",
+		"/C/Users/LenDev/Documents/gotowe/bomberman.html",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/start/js/game.js",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/start/js/Bomb.js",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/start/js/Board.js",
+		"/C/Users/LenDev/Documents/6.17_Wybuchy/start/bomberman.html",
+		"/C/Users/LenDev/Documents/6.16_Bomby/start/bomberman.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \t$insql = 'ALTER TABLE gracze ADD res_$count INT(11)';\n",
+			"console",
+			"return responseTime = Date.now() - t;",
+			"remove"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/From_style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/GameLoop/Ankieta_check.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1242,
+								1242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 436.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Game-response-time-.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

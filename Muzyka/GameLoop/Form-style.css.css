@@ -1,0 +1,30 @@
+html
+{
+	background: black;
+}
+#FirstForm
+{
+	box-sizing: border-box;
+	margin: auto;
+	padding: 5px;
+	width: 600px;
+
+}	
+#FirstForm div
+{
+	box-sizing:border-box;
+	background:#6CD9FF;
+	padding: : 10px;
+	width:200px;	
+}
+#SubmitBtn
+{
+	display: block;	
+	background: red;
+	width: 50px;
+}
+.QBox input
+
+{
+	margin:auto 10;
+}
