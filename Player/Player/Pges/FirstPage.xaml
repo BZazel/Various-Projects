@@ -1,0 +1,23 @@
+﻿<local:BasePage x:TypeArguments="local:FirstPageVieModel" x:Class="Player.FirstPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Player"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="500"
+      Title="FirstPage">
+
+    <Grid Background="#545354" AllowDrop="True" Drop="Grid_Drop" >
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="Open" HorizontalAlignment="Center" FontSize="20" Foreground="White" />
+            <Border CornerRadius="15" ClipToBounds="True" x:Name="Container">
+                <Grid>
+                    
+                    <Button  Command="{Binding OpenCommand}" Width="150" Height="100" Background="AliceBlue"  Content="{StaticResource FA_Plus}" FontFamily="{StaticResource FontAwesome}" FontSize="60" />
+                </Grid>
+            </Border>
+        </StackPanel>
+        
+    </Grid>
+</local:BasePage>

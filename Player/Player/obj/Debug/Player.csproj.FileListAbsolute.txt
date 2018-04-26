@@ -1,0 +1,115 @@
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.exe.config
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.exe
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.pdb
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\MainWindow.g.cs
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\App.g.cs
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player_MarkupCompile.cache
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player_MarkupCompile.lref
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\MainWindow.baml
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.g.resources
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.exe
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.pdb
+c:\users\ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Styles\Buttons.baml
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Pges\VideoDisplay.g.cs
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Pges\VideoDisplay.baml
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Pges\FirstPage.g.cs
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Pges\Settings_Controls.g.cs
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Pges\FirstPage.baml
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Pges\Settings_Controls.baml
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\App.baml
+C:\Users\Ja\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Fonts\Fonts.baml
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Controls\PlayerListControl.g.cs
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Controls\PlayerListItemControl.g.cs
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Controls\PlayerListControl.baml
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Controls\PlayerListItemControl.baml
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Ja\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.exe.config
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.exe
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.pdb
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListControl.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListItemControl.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\FirstPage.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\Settings_Controls.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\VideoDisplay.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\App.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\App.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListControl.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListItemControl.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Fonts\Fonts.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\FirstPage.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\Settings_Controls.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\VideoDisplay.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Styles\Buttons.baml
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.g.resources
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.exe
+C:\Users\LenDev\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.pdb
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.exe.config
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.exe
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Player.pdb
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.Windows.Shell.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.xml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.Windows.Shell.pdb
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListControl.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListItemControl.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\MainWindow.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\FirstPage.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\Settings_Controls.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\VideoDisplay.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\App.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_Content.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_MarkupCompile.cache
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player_MarkupCompile.lref
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\App.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListControl.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Controls\PlayerListItemControl.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Fonts\Fonts.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\MainWindow.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\FirstPage.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\Settings_Controls.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Pges\VideoDisplay.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Styles\Buttons.baml
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.g.resources
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.Properties.Resources.resources
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.csproj.CopyComplete
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.exe
+H:\Dysk Google\Porgramowanie\Projekty\Player\Player\obj\Debug\Player.pdb

@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Player"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <FontFamily x:Key="FontAwesome">pack://application;,,,/Fonts/#FontAwesome</FontFamily>
+
+
+    <system:String x:Key="FA_Play">&#xf04b;</system:String>
+    <system:String x:Key="FA_Pause">&#xf04c;</system:String>
+    <system:String x:Key="FA_Gear">&#xf013;</system:String>
+    <system:String x:Key="FA_Close">&#xf00d;</system:String>
+    <system:String x:Key="FA_List">&#xf00b;</system:String>
+    <system:String x:Key="FA_Plus">&#xf0fe;</system:String>
+</ResourceDictionary>
