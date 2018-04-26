@@ -1,0 +1,4 @@
+Jeden z pierwszych projektów stworzony w celach naukowych.
+Celem było postawowe opanowanie języka C# oraz stworzenie, bądź co bądź prostej, ale jednak fukncjonującej aplikacji.
+
+Player zawiera jedynie podstawowe fukcjonalności jak odwtarzanie/pausowanie filmów, regulację głośności, jak również działający pasek progresu.
