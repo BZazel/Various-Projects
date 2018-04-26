@@ -1,0 +1,5 @@
+Projekt stworzony w celu przeprowadzenia badania psychologicznego, dotyczącego korelacji między czasem reakcji a tempem słuchanej muzyki.
+
+Gra napisana od podstaw w Javascript.
+Zebrane wyniki były przesyłane do bazy danych MySQL.
+
