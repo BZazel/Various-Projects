@@ -1,0 +1,16 @@
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\bin\x86\Release\Szkiełka.exe.config
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\bin\x86\Release\Szkiełka.exe
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\bin\x86\Release\Szkiełka.pdb
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\MainWindow.g.cs
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\App.g.cs
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka_MarkupCompile.cache
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka_MarkupCompile.lref
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\MainWindow.baml
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.g.resources
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.Properties.Resources.resources
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.csproj.GenerateResource.cache
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.csproj.CoreCompileInputs.cache
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.exe
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.pdb
+C:\Users\Lexer\source\repos\Szkiełka\Szkiełka\obj\x86\Release\Szkiełka.csprojResolveAssemblyReference.cache
