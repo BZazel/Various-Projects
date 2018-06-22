@@ -1,9 +1,7 @@
 
- Jeden z pierwszych projektów stworzony w celu nauki programowania.
 
-Celem było postawowe opanowanie podstaw języka C# oraz stworzenie, bądź co bądź prostej, ale jednak funkcjonującej aplikacji.
 
-Video Player zawiera jedynie podstawowe fukcjonalności jak odwtarzanie/pausowanie filmów ( badź plików audio ), regulację głośności, jak również działający pasek progresu.
+Video Player zawierający  podstawowe fukcjonalności takie jak odwtarzanie/pausowanie filmów ( badź plików audio ), regulację głośności, jak również działający pasek progresu.
 
 Nie jest to projekt skończony i wymaga jeszcze wielu poprawek, które pojawią się w przyszłości.
 
